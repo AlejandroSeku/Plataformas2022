@@ -1,0 +1,15 @@
+C:\Users\LAB104BPC02\Desktop\N\clase01\bin\Debug\net6.0\clase01.exe
+C:\Users\LAB104BPC02\Desktop\N\clase01\bin\Debug\net6.0\clase01.deps.json
+C:\Users\LAB104BPC02\Desktop\N\clase01\bin\Debug\net6.0\clase01.runtimeconfig.json
+C:\Users\LAB104BPC02\Desktop\N\clase01\bin\Debug\net6.0\clase01.dll
+C:\Users\LAB104BPC02\Desktop\N\clase01\bin\Debug\net6.0\ref\clase01.dll
+C:\Users\LAB104BPC02\Desktop\N\clase01\bin\Debug\net6.0\clase01.pdb
+C:\Users\LAB104BPC02\Desktop\N\clase01\obj\Debug\net6.0\clase01.csproj.AssemblyReference.cache
+C:\Users\LAB104BPC02\Desktop\N\clase01\obj\Debug\net6.0\clase01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB104BPC02\Desktop\N\clase01\obj\Debug\net6.0\clase01.AssemblyInfoInputs.cache
+C:\Users\LAB104BPC02\Desktop\N\clase01\obj\Debug\net6.0\clase01.AssemblyInfo.cs
+C:\Users\LAB104BPC02\Desktop\N\clase01\obj\Debug\net6.0\clase01.csproj.CoreCompileInputs.cache
+C:\Users\LAB104BPC02\Desktop\N\clase01\obj\Debug\net6.0\clase01.dll
+C:\Users\LAB104BPC02\Desktop\N\clase01\obj\Debug\net6.0\ref\clase01.dll
+C:\Users\LAB104BPC02\Desktop\N\clase01\obj\Debug\net6.0\clase01.pdb
+C:\Users\LAB104BPC02\Desktop\N\clase01\obj\Debug\net6.0\clase01.genruntimeconfig.cache
